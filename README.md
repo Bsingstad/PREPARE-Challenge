@@ -7,7 +7,7 @@ This repository contains solutions for the **PREPARE EUREKA Challenge**, aimed a
 ### 1. Social Determinants Track
 This track involves developing algorithms and analytic approaches for early prediction of ADRD based on **social determinants of health**. The emphasis is placed on the **explainability** of predictions, ensuring that models provide interpretable results to support clinical decision-making.
 
-- **Notebook**: `to-be-uploaded.ipynb`
+- **Notebook**: `driven data alzheimer social tabnet.ipynb`
 - **Model**: TabNet, a neural network architecture that inherently supports interpretability.
 - **Features**: Social and demographic features, including health, lifestyle, and socioeconomic indicators.
 - **Key Components**:
